@@ -9,7 +9,6 @@
 # dependencies
 /node_modules
 /bower_components
-/e2e
 
 # IDEs and editors
 /.idea
